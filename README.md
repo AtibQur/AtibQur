@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on Push_swap.
-🌱 I’m currently learning programming in C.
-📫 How to reach me: Haseebqureshie@gmail.com.
+- 🌱 I’m currently learning programming in C.
+- 📫 How to reach me: Haseebqureshie@gmail.com.
 
 
 <!--

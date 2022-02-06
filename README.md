@@ -1,10 +1,10 @@
-### Hi there 👋 My name is Haseeb Qureshie
+### Hi there, My name is Haseeb Qureshie 👋 ###
 
+### I am a Software Engineering student at Codam College. 
 
 - 🔭 I’m currently working on Push_swap.
 - 🌱 I’m currently learning programming in C.
 - 📫 How to reach me: Haseebqureshie@gmail.com.
-
 
 <!--
 **AtibQur/AtibQur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

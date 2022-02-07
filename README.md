@@ -1,9 +1,9 @@
-### Hi there, My name is Haseeb Qureshie 👋 ###
+# <h2 align="center">Hi there, My name is Haseeb Qureshie 👋</h2>   
 
-### I am a Software Engineering student at Codam College. 
+<h3 align="center">I am a Software Engineering student at Codam College.</h3>
 
-- 🔭 I’m currently working on Push_swap.
-- 🌱 I’m currently learning programming in C.
+- 🔭 I’m currently working on __Push_swap__.
+- 🌱 I’m currently learning programming in __C__.
 - 📫 How to reach me: Haseebqureshie@gmail.com.
 
 <!--

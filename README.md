@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning programming in __C__.
 - 📫 How to reach me: Haseebqureshie@gmail.com.
 
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=AtibQur&theme=highcontrast&show_icons=true&count_private=true) -->
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AtibQur) -->
 <!--
 **AtibQur/AtibQur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

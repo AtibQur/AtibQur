@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a Software Engineering student at Codam College.</h3>
 
-- 🔭 I’m currently working on __So_long__.
+- 🔭 I’m currently working on __Minishell__.
 - 🌱 I’m currently learning programming in __C__.
 - 📫 How to reach me: Haseebqureshie@gmail.com.
 

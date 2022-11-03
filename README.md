@@ -3,7 +3,7 @@
 <h3 align="center">I am a Software Engineering student at Codam College.</h3>
 
 - 🔭 I’m currently working on __CPP04__.
-- 🌱 I’m currently learning programming in __C__and__C++__.
+- 🌱 I’m currently learning programming in __C & C++__.
 - 📫 How to reach me: Haseebqureshie@gmail.com.
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=AtibQur&theme=highcontrast&show_icons=true&count_private=true) -->

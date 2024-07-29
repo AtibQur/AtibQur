@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a Software Engineering student at Codam College.</h3>
 
-- 🔭 I’m currently working on __WebServ__.
+- 🔭 I’m currently searching for an internship.
 - 🌱 I’m currently learning programming in __C & C++__.
 - 📫 How to reach me: https://www.linkedin.com/in/haseeb-qureshie/.
 

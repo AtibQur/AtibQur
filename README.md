@@ -2,9 +2,10 @@
 
 <h3 align="center">I am a Software Engineering student at Codam College.</h3>
 
-- 🔭 I’m currently searching for an internship.
-- 🌱 I’m currently learning programming in __C & C++__.
+- 🔭 I’m currently doing a internship at Leaning Technologies.
 - 📫 How to reach me: https://www.linkedin.com/in/haseeb-qureshie/.
+<!-- - 🌱 I’m currently learning programming in __C & C++__.
+
 
 
 <!--
